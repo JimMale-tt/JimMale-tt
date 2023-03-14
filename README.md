@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**JimMale-tt/JimMale-tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here's my PGP Public key
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mDMEY/+7vBYJKwYBBAHaRw8BAQdAnxc3gC0k6z1WkaKUpUzP0+5ZVTksaftcswtM
+Lggozru0N0ppbSBNYWxlIDw5Mzk1MTMxOCtKaW1NYWxlLXR0QHVzZXJzLm5vcmVw
+bHkuZ2l0aHViLmNvbT6ImQQTFgoAQRYhBP6nYPHQCU/+eQao0mAptZIEnuoMBQJj
+/7u8AhsDBQkSzAMABQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEGAptZIE
+nuoM7ooBAPr7HwODqkpEDnAWQ3r9pm0oQddSqkFA/5pc4BP+MuefAQD+TaNAJyal
+VKwBvLNu0HnOHU9NQO3LnywtKOA7EPVIB7g4BGP/u7wSCisGAQQBl1UBBQEBB0BR
+AlpOLMvgMkrwsXeVSVSu6thcaA08h56PYpZeV33FFQMBCAeIfgQYFgoAJhYhBP6n
+YPHQCU/+eQao0mAptZIEnuoMBQJj/7u8AhsMBQkSzAMAAAoJEGAptZIEnuoMR/0A
+/0SLSeCCtbIFlsObmKofGT8gXrnIe//t4odNhht48FHIAQCGQPMlcmODPfaBAHF3
+ePg0bOUw4edRnbMNuscphvk/Bw==
+=WbXT
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
